@@ -14,7 +14,7 @@ h2 {
 
 header {
     padding: 30px;
-    background-image: -o-linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
 }
 
